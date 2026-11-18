@@ -8,10 +8,14 @@
 #Syntax & Execution:
  
 #1. Text has to be defined through single quotes '' or double quotes "" ( 1 )
+
 #2. Adding values with + ( 2 )
+
 #3. Empty place with ' '  or " " (  3 )
+
 #4. Place holder ( 4 )
-#5. Print "" or '' with triple quotes
+
+#5. Print "" or '' with triple quotes ( 5 )
 
 #Examples 
 
