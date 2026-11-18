@@ -22,29 +22,37 @@
 
 #(1)
 
+
 print("Hello World")
+
 
 #Prints Hello World
 
 #( 2 )
 
+
 print("Hello"+"World")
+
 
 #Both texts get added to Hello World.
 #! Values need to have the same type : More of that in 05-types.md
 
 #( 3 )
 
+
 print("Hello" + " " + "World"
+
 
 #Prints Hello World
 #The quotes " " made an empty place between
 
 #( 4 )
 
+
 print("Hello")
 print()
 print("What's going on")
+
 
 #Prints:
 #Hello 
@@ -53,7 +61,9 @@ print("What's going on")
 
 #( 5 )
 
+
 print(""" I like "pizza"""")
+
 
 #Prints I like "pizza"
 
