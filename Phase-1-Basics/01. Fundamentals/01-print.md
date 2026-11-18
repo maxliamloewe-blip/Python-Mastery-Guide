@@ -1,6 +1,7 @@
 # print()
 
-#Function:
+
+# Function:
 
 #The print()-function is a simple and crucial function in python, which allows you to print data.
 #This includes text, numbers, variables...
