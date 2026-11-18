@@ -5,7 +5,7 @@
 #The print()-function is a simple and crucial function in python, which allows you to print data.
 #This includes text, numbers, variables...
 
-#Syntax & Execution:
+# Syntax & Execution:
  
 #1. Text has to be defined through single quotes '' or double quotes "" ( 1 )
 
@@ -17,7 +17,7 @@
 
 #5. Print "" or '' with triple quotes ( 5 )
 
-#Examples 
+# Examples 
 
 #(1)
 
