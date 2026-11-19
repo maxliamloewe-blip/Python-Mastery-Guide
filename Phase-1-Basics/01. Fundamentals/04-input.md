@@ -10,7 +10,9 @@
 # Examples
 
 name = input("What is your name: ")
+
 print("Nice to meet you " + name)
 
 #The variable name asks the user to input his or her name
+
 #As you can see the variable stores the user input as its value
