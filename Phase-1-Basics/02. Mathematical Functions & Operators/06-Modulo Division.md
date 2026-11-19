@@ -9,6 +9,8 @@
 
 #Short version for dividing with variables ( 1 )
 
+# Examples
+
 print(5%2)
 
 #Prints 1
