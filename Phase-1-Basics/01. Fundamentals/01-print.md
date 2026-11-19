@@ -35,7 +35,7 @@ print("Hello"+"World")
 
 
 #Both texts get added to Hello World.
-#! Values need to have the same type : More of that in 05-types.md
+#! Values need to have the same type : More of that in 03-types.md
 
 #( 3 )
 
