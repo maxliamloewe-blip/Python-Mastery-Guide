@@ -22,8 +22,11 @@ print(2-5)
 #( 1 )
 
 budget = 100
+
 budget -= 110
+
 print(budget)
 
 #Prints -10
+
 #Does'nt work for strings
