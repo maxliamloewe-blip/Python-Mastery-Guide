@@ -22,6 +22,7 @@
 # Examples
 
 name = "Ben"
+
 print( name )
 
 #Prints Ben 
@@ -39,7 +40,9 @@ first_name = "Ben"
 #( 2 )
 
 name = "Ben"
+
 name = "Sam"
+
 print( name )
 
 #Prints Sam , since the newest holds the current value
@@ -51,12 +54,15 @@ food = "pizza"
 print( "I like " + food )
 
 #Prints I like pizza
+
 #Values need to have the same type. More of that in 03.types.md
 
 #( 4 )
 
 like = "I like: "
+
 what_do_you_like = "basketball"
+
 print( like + what_do_you_like )
 
 #Prints I like: basketball
@@ -70,10 +76,15 @@ number_a = number_b = number_c = 100
 #( 6 )
 
 name,age = "Ben",16
+
 print("Name: " + name )
+
 print("Age: " + age )
 
 #Prints 
+
 #Name: Ben
+
 #Age: 16
+
 #You can assign values to multiple variables in one line, by using ,
