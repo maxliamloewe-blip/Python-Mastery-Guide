@@ -4,6 +4,7 @@
 # Function:
 
 #The print()-function is a simple and crucial function in python, which allows you to print data.
+
 #This includes text, numbers, variables...
 
 # Syntax & Execution:
@@ -35,6 +36,7 @@ print("Hello"+"World")
 
 
 #Both texts get added to Hello World.
+
 #! Values need to have the same type : More of that in 03-types.md
 
 #( 3 )
@@ -44,19 +46,25 @@ print("Hello" + " " + "World"
 
 
 #Prints Hello World
+
 #The quotes " " made an empty place between
 
 #( 4 )
 
 
 print("Hello")
+
 print()
+
 print("What's going on")
 
 
 #Prints:
+
 #Hello 
+
 #( The empty print() holds one line. Without it they would'nt have an empty line in between.
+
 #What's going on 
 
 #( 5 )
