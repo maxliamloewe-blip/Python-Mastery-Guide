@@ -24,7 +24,7 @@
 name = "Ben"
 print( name )
 
-#Shows Ben 
+#Prints Ben 
 
 #( 1 )
 
@@ -42,7 +42,7 @@ name = "Ben"
 name = "Sam"
 print( name )
 
-#Shows Sam , since the newest holds the current value
+#Prints Sam , since the newest holds the current value
 
 #( 3 )
 
@@ -50,5 +50,30 @@ food = "pizza"
 
 print( "I like " + food )
 
-#Shows I like pizza
-#Values need to have the same type. More of that in type
+#Prints I like pizza
+#Values need to have the same type. More of that in 03.types.md
+
+#( 4 )
+
+like = "I like: "
+what_do_you_like = "basketball"
+print( like + what_do_you_like )
+
+#Prints I like: basketball
+
+#( 5 )
+
+number_a = number_b = number_c = 100
+
+#Each of these e variables hold the value 100
+
+#( 6 )
+
+name,age = "Ben",16
+print("Name: " + name )
+print("Age: " + age )
+
+#Prints 
+#Name: Ben
+#Age: 16
+#You can assign values to multiple variables in one line, by using ,
