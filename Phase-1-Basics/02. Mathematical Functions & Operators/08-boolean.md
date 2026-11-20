@@ -5,7 +5,7 @@
 
 #A Boolean ( bool ) is a type , which either holds the value True or False
 
-# Syntax & Hinweise 
+# Syntax & Execution
 
 
 # Example: 
