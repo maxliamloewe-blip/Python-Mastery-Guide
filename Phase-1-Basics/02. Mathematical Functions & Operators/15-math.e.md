@@ -3,7 +3,7 @@
 
 # Function:
 
-#Eulers number, is equal to 2.71...
+#Eulers number ( e ) in math , is equal to 2.71...
 
 # Syntax % Execution:
 
