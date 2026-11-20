@@ -3,7 +3,7 @@
 
 # Function:
 
-#Pi in math
+#Pi in math , is equal to 3.14
 
 # Syntax & Execution:
 
