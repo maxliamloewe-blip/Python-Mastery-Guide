@@ -11,12 +11,26 @@
 
 #The actions automaticly go under the condition ( 2 )
 
-#Correct order ( 3 )
+#And and or ( 3 )
+
+#Correct order ( 4 )
 
 # Example:
 
 #( 1 ) & ( 2 ) & ( 3 )
 
-points = 100
+input = int(input("Enter your exam score: "))
 
-if points 100 =< 
+if points 100 <= and >=85:
+
+    print("You have an A")
+
+elif points 85 <= and points >= 70:
+
+     print("You have a B
+
+elif points 70 <= and points >= 55:
+
+     print("You have a C")
+
+
