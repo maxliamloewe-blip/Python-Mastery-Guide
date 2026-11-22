@@ -101,5 +101,7 @@ print()
 
 print(score)    
 
+# Outcome:
 
+https://github.com/user-attachments/assets/b38f3e14-72b2-49bb-9847-19935749451d
 
