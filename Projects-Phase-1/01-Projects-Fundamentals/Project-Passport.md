@@ -24,8 +24,8 @@ print("Birthyear:" + str(birthyear))
 
 print("Nationality:" + nationality)
 
-print("City;" + city)
+print("City:" + city)
 
 # Outcome:
 
-https://github.com/user-attachments/assets/5f57d966-19f9-4714-88e5-da295aa3cfc1
+
