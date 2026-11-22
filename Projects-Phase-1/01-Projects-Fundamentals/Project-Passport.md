@@ -36,4 +36,4 @@ print("City:" + city)
 
 # Outcome:
 
-
+https://github.com/user-attachments/assets/4ba52e78-9818-47e2-afbc-d64f900909f5
