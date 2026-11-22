@@ -4,11 +4,19 @@
 
 full_name = str(input("What is your first and sir name: "))
 
+print()
+
 age = int(input("How old are you: "))
+
+print()
 
 birthyear = int(input("When where you born: "))
 
+print()
+
 nationality = str(input("Where were you born ( Connect nationalitys with / ): "))
+
+print()
 
 city = str(input("In which city were you born: "))
 
