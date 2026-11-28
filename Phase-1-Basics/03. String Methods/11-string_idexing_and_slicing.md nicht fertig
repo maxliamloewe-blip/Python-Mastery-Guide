@@ -1,0 +1,55 @@
+# slice() & indexing
+
+
+# Function:
+
+#Both operators can slice a specific sequence of a string
+
+# Syntax & Operators
+
+#0 is the first index 
+
+#indexing ( 1 ) 
+
+#slice() ( 2 )
+
+# Example:
+
+#( 1 )
+
+#(start:stop:step)
+
+i = "Hello World"
+
+print(i[0])
+
+#Prints H, start with no end
+
+print(i[0:11])
+
+#Prints Hello World, start from the start to the end
+
+print(i[0:11:2]
+
+#or
+
+print(i[::2])
+
+#Both print HloWrd
+
+print(i[::-1])
+
+#Prints dlroW olleH
+
+#Slices the string from the back
+
+#( 2 )
+
+#(start,stop:step)
+
+name = "Tom Smith"
+
+slice = slice(1)
+
+print(name[slice])
+
